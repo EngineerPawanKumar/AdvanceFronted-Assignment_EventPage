@@ -1,0 +1,76 @@
+* {
+    margin:0
+}
+
+   
+
+.header {
+   background-color:rgb(28, 8, 97);
+   height: 70px;
+   font-family:Arial, Helvetica, sans-serif;
+}
+#brand {
+    text-align: left;
+    width: 30%;
+    float: left;
+    color: cornsilk;
+    line-height: 70px;
+    margin-top: 10px;
+}
+
+
+#menu {
+    text-align:right;
+    float: right;
+    width: 70%;
+    line-height: 70px;
+
+
+}
+a {
+    color: cornsilk;
+    text-decoration: none;
+    margin-right: 40px;
+    font-size: larger;
+}
+.main {
+    background-image: url(https://images.pexels.com/photos/2263436/pexels-photo-2263436.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+h1 {
+    font-size: 65px;
+    color: cornsilk;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10%;
+}
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    font-size: 30px;
+    font-style: italic;
+    color: cornsilk;  
+}
+button {
+    height: 48px;
+    width: 180px;
+    text-align: center;
+    border-style: inherit;
+    border-radius: 5%;
+    background-color: rgba(231, 25, 121, 0.945);
+    font-style: unset;
+    font-size: 15px;
+    margin-left: 42%;
+    margin-top: 35px;
+    color: cornsilk;
+}
+.table {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+table {
+    color: cornsilk;
+    width: 100%;
+    margin-top: 500px;
+}
